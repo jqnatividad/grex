@@ -24,7 +24,7 @@ repository = "https://github.com/pemistahl/grex"
 documentation = "https://docs.rs/grex"
 license = "Apache-2.0"
 readme = "README.md"
-edition = "2018"
+edition = "2021"
 categories = ["command-line-utilities"]
 keywords = ["pattern", "regex", "regexp"]
 
